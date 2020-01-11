@@ -30,6 +30,8 @@
   },
   "dependencies": {
     "express": "^4.16.4",
+    "node": "^13.6.0",
+    "nodemon": "^2.0.2",
     "superagent": "^5.0.2"
   },
   "devDependencies": {
